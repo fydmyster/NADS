@@ -1,0 +1,50 @@
+==============================
+Not Another Dungeon Shooter User License v1.01a
+==============================
+
+Last Updated on March 9, 2017
+
+----------------
+The game and the source code are
+being provided to you for the purpose of learning, entertainment, and sharing.
+
+
+
+-------------------
+ Rights Granted
+-------------------
+
+You may modify and redistribute the Game and its Source Code under the following
+conditions:
+
+  (1) This license and any appropriate copyright notices in the Source Code are
+      kept intact.
+
+  (2) You may not sell Covered Works.
+
+ 
+  (3) If you share a modified version of either the Game or its Source Code with
+      others, you must not present it as an unmodified, or official, version of
+      the Game or the Source code.  Please make it apparent that it is a mod.
+
+By accepting this license you are agreeing not to restrict or prevent the original author
+from modifying or adding to Not Another Dungeon Shooter in any way.
+
+----------------------------
+4. Disclaimer of Warranty
+----------------------------
+
+The Game and its Source Code are provided WITHOUT WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+----------------------------
+5. Limitation of Liability
+----------------------------
+
+In no event, unless required by applicable law or agreed to in writing will any
+copyright holders be liable to you for damages, including any general, special,
+incidental, or consequential damages arising out of the use or inability to use
+the Game, the Source Code, or modified versions of the Game or the Source Code,
+even if such holder has been advised of the possibility of such damages.  Such
+damages include, but are not limited to, loss of data or data being
+rendered inaccurate.
